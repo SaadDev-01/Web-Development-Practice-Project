@@ -4,8 +4,9 @@ This project is a software company website designed for beginner web developers 
 About This Website
 This website simulates a professional software company’s web presence, featuring a clean and modern design. It’s versatile enough to be:
 
-A practice project for web development enthusiasts who want hands-on experience combining front-end and back-end technologies.
-A ready-to-use template for a software business, easily customizable to match specific needs.
+- A practice project for web development enthusiasts who want hands-on experience combining front-end and back-end technologies.
+- A ready-to-use template for a software business, easily customizable to match specific needs.
+- 
 What Does This Website Do?
 The website showcases the essential components of a professional software company’s website:
 
